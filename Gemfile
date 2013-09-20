@@ -6,6 +6,8 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'rails-footnotes', :group => :development
 
+# BURT'S CHANGE
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
