@@ -1,10 +1,18 @@
 source 'https://rubygems.org'
 
+gem 'hirb'
+gem 'simple_form'
+gem 'bootstrap-sass'
+gem 'jquery-rails'
+gem 'rails-footnotes', :group => :development
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+
+gem 'hirb'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
